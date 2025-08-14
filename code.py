@@ -5,6 +5,6 @@ i = 1
 for i in range(int(termos)):
     num = num * 10 + 1
     soma = soma + num
-
-print("soma: ", soma)
+    print(f" {num} ")
+print("soma = ", soma)
 
